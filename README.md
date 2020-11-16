@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm Ivan aka space125</h1>
+<h1 align="center">I'm Ivan nickname space125</h1>
 <h3 align="center">Self-taught Java developer and SAP PI/PO technical specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=space125" alt="space125" /> </p>
