@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Topjava course](https://github.com/Space125/topjava)
+- 🔭 I’m currently working on [Restaurant voiting system](https://github.com/Space125/restaurant-voting-rest-api)
 - 🌱 I’m currently learning Spring & Hibernate
 - 📫 How to reach me: [e-mail](mailto:kurilov@list.ru?subject=[GitHub])
 
