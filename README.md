@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Restaurant voiting system](https://github.com/Space125/restaurant-voting-rest-api)
-- 🌱 I’m currently learning Spring & Hibernate
+- 🔭 I’m currently working on [Sarafan](https://github.com/Space125/sarafan)
+- 🌱 I’m currently learning Spring & Hibernate & Vue
 - 📫 How to reach me: [e-mail](mailto:kurilov@list.ru?subject=[GitHub])
 
